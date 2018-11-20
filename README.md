@@ -6,7 +6,7 @@ if you have any questions, please send email to me: xingshuli600@gmail.com
 
 Fractal Architecture
 
-![Image text](http://raw.github.com/xingshulicc/Cifar10-classification-using-FractalNet20/master/images/Fractal Architecture.png)
+![Image text](http://raw.github.com/xingshulicc/Cifar10-classification-using-FractalNet20/master/images/Fractal_Architecture.png)
 
 
 Drop-Path scheme
